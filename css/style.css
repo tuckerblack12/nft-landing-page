@@ -7,11 +7,11 @@
 :root {
   --font-primary: 'PT+Sans+Narrow', sans-serif;
   --font-secondary: 'Arvo', serif;
-  --font-code: 'Roboto', monospace;
+  --font-code: 'lato', monospace;
   --bg-color: #0b0c0c;
-  --font-color: #f4d00a8a;
-  --btn-bg-color: #4206d0;
-  --accent-color: #36b015;
+  --font-color: #fcfafa;
+  --btn-bg-color: #ffffff;
+  --accent-color: #7d7666;
   --header-shadow: rgb(36, 28, 28) 0px 0px 5px;
 }
 
